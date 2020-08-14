@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\BloodBankSystem\BloodBankSystem\bin\Debug\BloodBankSystem.exe.config
+C:\Users\USER\source\repos\BloodBankSystem\BloodBankSystem\bin\Debug\BloodBankSystem.exe
+C:\Users\USER\source\repos\BloodBankSystem\BloodBankSystem\bin\Debug\BloodBankSystem.pdb
+C:\Users\USER\source\repos\BloodBankSystem\BloodBankSystem\obj\Debug\BloodBankSystem.Form1.resources
+C:\Users\USER\source\repos\BloodBankSystem\BloodBankSystem\obj\Debug\BloodBankSystem.Properties.Resources.resources
+C:\Users\USER\source\repos\BloodBankSystem\BloodBankSystem\obj\Debug\BloodBankSystem.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\BloodBankSystem\BloodBankSystem\obj\Debug\BloodBankSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\BloodBankSystem\BloodBankSystem\obj\Debug\BloodBankSystem.exe
+C:\Users\USER\source\repos\BloodBankSystem\BloodBankSystem\obj\Debug\BloodBankSystem.pdb
+C:\Users\USER\source\repos\BloodBankSystem\BloodBankSystem\obj\Debug\BloodBankSystem.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\BloodBankSystem\BloodBankSystem\obj\Debug\BloodBankSystem.Login.resources
+C:\Users\USER\source\repos\BloodBankSystem\BloodBankSystem\obj\Debug\BloodBankSystem.Registration.resources
+C:\Users\USER\source\repos\BloodBankSystem\BloodBankSystem\obj\Debug\BloodBankSystem.Member.resources
+C:\Users\USER\source\repos\BloodBankSystem\BloodBankSystem\obj\Debug\BloodBankSystem.BloodRequest.resources
+C:\Users\USER\source\repos\BloodBankSystem\BloodBankSystem\obj\Debug\BloodBankSystem.BloodDonate.resources
+C:\Users\USER\source\repos\BloodBankSystem\BloodBankSystem\obj\Debug\BloodBankSystem.SearchDoner.resources
+C:\Users\USER\source\repos\BloodBankSystem\BloodBankSystem\obj\Debug\BloodBankSystem.BloodBank.resources
